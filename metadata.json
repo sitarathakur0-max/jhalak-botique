@@ -1,0 +1,6 @@
+{
+  "name": "Jhalak Boutique — Tajpura, Lahore",
+  "description": "Editorial website for Jhalak Boutique, a local women's clothing boutique in Ali Mohammad Bazaar, Dubai Chowk, Tajpura, Lahore, Pakistan, featuring modest wear, everyday styles, and semi-formal inspirations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
